@@ -61,6 +61,6 @@ don't think hard.. you will be able to do that in weeks.. Happy Learning ;)
 
 # For Next
 
-So now you must have got a vague picture of how Tensorflow works, don't worry stay tuned, this is just like an ice-burg, there is much more to jump deep.. now on, we will be using the above terminologies and standards to design our model. From next tutorials, we will start building exciting models, suggest me some good use-case and we will try makeing it a model that could predict your need. \
+So now you must have got a vague picture of how Tensorflow works, don't worry stay tuned, this is just like an ice-burg, there is much more to jump deep.. now on, we will be using the above terminologies and standards to design our model. From next tutorials, we will start building exciting models, suggest me some good use-case and we will try makeing it a model that could predict your need.
 
 Please share your comments and keep me posted for any doubts and updates.
